@@ -1,11 +1,12 @@
 payload:
-  # === 需要走代理的 PT 站或外网服务 ===
+  # === 完整域名匹配 (精准高效) ===
   - DOMAIN-SUFFIX,ubits.club
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
-  - DOMAIN-SUFFIX,.hohai
   - DOMAIN-SUFFIX,media.nijigem.by
-  - DOMAIN-SUFFIX,okemby
-  - DOMAIN-SUFFIX,emby.bangumi
-  - DOMAIN-SUFFIX,ap-cn01.emby.bangumi
-  - DOMAIN-SUFFIX,hka-emby
   - DOMAIN-SUFFIX,emby.ichinosekotomi.com
+
+  # === 关键字匹配 (宁可错杀一千，不可放过一个) ===
+  - DOMAIN-KEYWORD,hohai
+  - DOMAIN-KEYWORD,okemby
+  - DOMAIN-KEYWORD,emby.bangumi
+  - DOMAIN-KEYWORD,hka-emby
