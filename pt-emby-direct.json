@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hdsky.me",
+        "emby.yun",
+        "lovehd.de",
+        "wmuu.de"
+      ]
+    }
+  ]
+}
