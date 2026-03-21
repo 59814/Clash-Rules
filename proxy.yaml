@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   - DOMAIN-SUFFIX,media.nijigem.by
   - DOMAIN-SUFFIX,emby.ichinosekotomi.com
+  - DOMAIN-SUFFIX,lite.cn2gias.uk
 
   # === 关键字匹配 (宁可错杀一千，不可放过一个) ===
   - DOMAIN-KEYWORD,hohai
