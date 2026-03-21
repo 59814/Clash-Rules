@@ -1,0 +1,8 @@
+payload:
+  # === PT 站点 (务必走直连) ===
+  - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,emby.yun
+  - DOMAIN-SUFFIX,lovehd.de
+  - DOMAIN-SUFFIX,wmuu.de
+  
+ 
