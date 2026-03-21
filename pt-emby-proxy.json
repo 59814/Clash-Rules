@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ubits.club",
+        "emby.dnscf.dpdns.org",
+        "media.nijigem.by",
+        "emby.ichinosekotomi.com"
+      ],
+      "domain_keyword": [
+        "hohai",
+        "okemby",
+        "emby.bangumi",
+        "hka-emby"
+      ]
+    }
+  ]
+}
