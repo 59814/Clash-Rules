@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,emby.ichinosekotomi.com
   - DOMAIN-SUFFIX,lite.cn2gias.uk
   - DOMAIN-SUFFIX,kitty.su
+  - DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
 
   # === 关键字匹配 (宁可错杀一千，不可放过一个) ===
   - DOMAIN-KEYWORD,hohai
