@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,lite.cn2gias.uk
   - DOMAIN-SUFFIX,kitty.su
   - DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
+  - DOMAIN-SUFFIX,stream-1.miraiemby.com
 
   # === 关键字匹配 (宁可错杀一千，不可放过一个) ===
   - DOMAIN-KEYWORD,hohai
