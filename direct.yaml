@@ -4,5 +4,7 @@ payload:
   - DOMAIN-SUFFIX,emby.yun
   - DOMAIN-SUFFIX,lovehd.de
   - DOMAIN-SUFFIX,wmuu.de
+  - DOMAIN-SUFFIX,106.15.231.223
+  - DOMAIN-SUFFIX,121.89.83.36
   
  
