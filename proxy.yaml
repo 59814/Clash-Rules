@@ -1,5 +1,7 @@
 payload:
-  # === 完整域名匹配 (精准高效) ===
+  # =========================
+  # Emby / 媒体服务（精确域名）
+  # =========================
   - DOMAIN-SUFFIX,ubits.club
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   - DOMAIN-SUFFIX,media.nijigem.by
@@ -11,10 +13,12 @@ payload:
   - DOMAIN-SUFFIX,qzz.io
   - DOMAIN-SUFFIX,lyezi.cc
 
-  # === 关键字匹配 (宁可错杀一千，不可放过一个) ===
+  # =========================
+  # PT / 动态识别（关键字层）
+  # =========================
   - DOMAIN-KEYWORD,hohai
   - DOMAIN-KEYWORD,okemby
   - DOMAIN-KEYWORD,emby.bangumi
   - DOMAIN-KEYWORD,hka-emby
   - DOMAIN-KEYWORD,xn--9kqz23b19z
-  - DOMAIN-KEYWORD,inkar-suki.codethink.cn
+  - DOMAIN-SUFFIX,inkar-suki.codethink.cn
